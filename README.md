@@ -14,6 +14,7 @@ This notebook demonstrates how to:
 ## 📂 File Structure
 
 📁 sentiment-analysis/
-├── sentiment analysis.ipynb # Main notebook with code and analysis
-├── data/ # Dataset files (if available)
-└── README.md # Project documentation
+
+── sentiment analysis.ipynb # Main notebook with code and analysis
+── data/ # Dataset files (if available)
+── README.md # Project documentation
